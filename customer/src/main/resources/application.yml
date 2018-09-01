@@ -1,0 +1,10 @@
+spring:
+ data:
+   mongodb:
+     username: shweta
+     password: Root@123
+     database: CustomerDB
+     port: 27017
+     host: localhost
+server:
+ port: 8084
